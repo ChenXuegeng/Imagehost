@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "",
+    "files.autoGuessEncoding": false,
+    "files.encoding": "gbk",
+    "files.associations": {
+        "i2c_hal.h": "c",
+        "tim.h": "c"
+    }
+}

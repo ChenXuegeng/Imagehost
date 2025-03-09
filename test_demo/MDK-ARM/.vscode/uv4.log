@@ -1,0 +1,4 @@
+Load "test_demo\\test_demo.axf" 
+RDDI-DAP Error
+Error: Flash Download failed  -  Target DLL has been cancelled
+Flash Load finished at 09:02:54
